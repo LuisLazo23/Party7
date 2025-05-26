@@ -85,11 +85,3 @@
   </footer>
 </body>
 </html>
-
-
-  <footer>
-    <p>&copy; 2025 Party 7. Todos los derechos reservados.</p>
-    <p>Síguenos en: <a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">TikTok</a></p>
-  </footer>
-</body>
-</html>
