@@ -40,9 +40,13 @@
       <img src="grad_decor.jpg.jpeg" alt="Decoración de Graduación" />
       <img src="alexa.jpeg" alt="alexa" />
       <img src="alexaxv.jpeg" alt="alexaXV" />
-      <img src="colores.jpeg" alt="colores" />
+      <img src="neón.jpeg" alt="neón" />
       <img src="rojo.jpeg" alt="rojo" />
       <img src="mesadorada.jpeg" alt="mesadorada" />
+      <img src="bayron.jpeg" alt="bayron" />
+      <img src="baby.jpeg" alt="baby" />
+      <img src="leao.jpeg" alt="leao" />
+      <img src="blanco.jpeg" alt="blanco" />
     </div>
   </section>
 
