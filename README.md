@@ -70,6 +70,11 @@
         <h3>Sillas blancas elegantes</h3>
         <p>Precio: $2.50 por unidad</p>
       </div>
+      <div class="catalogo-item">
+      <img src="colores" alt="Decoración Neón" />
+      <div class="catalogo-item-info">
+        <h3>Decoración Personalizada</h3>
+        <p>Precio: $50 personalizado</p>
     </div>
     <div class="catalogo-item">
       <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
