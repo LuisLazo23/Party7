@@ -56,44 +56,49 @@
   </section>
 
   <section id="catalogo" class="catalogo">
-    <h2>Catálogo de Productos</h2>
-    <div class="catalogo-item">
-      <img src="mesa_con_sillas.jpg.png" alt="Mesa y sillas" />
-      <div class="catalogo-item-info">
-        <h3>Juego de mesa con sillas</h3>
-        <p>Precio: $15.00 por set</p>
-      </div>
-    </div>
-    <div class="catalogo-item">
-      <img src="sillas_madera.jpg.png" alt="Sillas de madera" />
-      <div class="catalogo-item-info">
-        <h3>Sillas blancas elegantes</h3>
-        <p>Precio: $2.50 por unidad</p>
-      </div>
-      <div class="catalogo-item">
-      <img src="neon.jpeg" alt="Decoración Neón" />
-      <div class="catalogo-item-info">
-        <h3>Decoración Personalizada</h3>
-        <p>Precio: $50 personalizado</p>
-    </div>
-    <div class="catalogo-item">
-      <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
-      <div class="catalogo-item-info">
-        <h3>Decoración con letras y globos</h3>
-        <p>Precio: Desde $50.00</p>
-      </div>
-    </div>
-  </section>
+  <h2>Catálogo de Productos</h2>
 
-  <div class="whatsapp">
-    <a href="https://wa.me/16822947482" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
-    </a>
+  <div class="catalogo-item">
+    <img src="mesa_con_sillas.jpg.png" alt="Mesa y sillas" />
+    <div class="catalogo-item-info">
+      <h3>Juego de mesa con sillas</h3>
+      <p>Precio: $15.00 por set</p>
+    </div>
   </div>
 
-  <footer>
-    <p>&copy; 2025 Party 7. Todos los derechos reservados.</p>
-    <p>Síguenos en: <a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">TikTok</a></p>
-  </footer>
-</body>
-</html>
+  <div class="catalogo-item">
+    <img src="sillas_madera.jpg.png" alt="Sillas de madera" />
+    <div class="catalogo-item-info">
+      <h3>Sillas blancas elegantes</h3>
+      <p>Precio: $2.50 por unidad</p>
+    </div>
+  </div>
+
+  <div class="catalogo-item">
+    <img src="neon.jpeg" alt="Decoración Neón" />
+    <div class="catalogo-item-info">
+      <h3>Decoración Personalizada</h3>
+      <p>Precio: $50 personalizado</p>
+    </div>
+  </div>
+
+  <div class="catalogo-item">
+    <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
+    <div class="catalogo-item-info">
+      <h3>Decoración con letras y globos</h3>
+      <p>Precio: Desde $50.00</p>
+    </div>
+  </div>
+</section>
+
+<div class="whatsapp">
+  <a href="https://wa.me/16822947482" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+  </a>
+</div>
+
+<footer>
+  <p>&copy; 2025 Party 7. Todos los derechos reservados.</p>
+  <p>Síguenos en: <a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">TikTok</a></p>
+</footer>
+
