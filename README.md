@@ -59,8 +59,6 @@ Realizamos decoración personalizada para todo tipo de eventos: cumpleaños, bau
 Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gustos y necesidades. Todo nuestro mobiliario y decoración puede ser personalizado para combinar perfectamente con el estilo de tu evento. Escríbenos por WhatsApp y cuéntanos tu idea. ¡Nos encargamos de hacerlo realidad!
 
 </p>
-  </section>
-
   <section id="catalogo" class="catalogo">
   <h2>Catálogo de Productos</h2>
 
@@ -93,6 +91,34 @@ Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gus
     <div class="catalogo-item-info">
       <h3>Decoración con letras y globos</h3>
       <p>Precio: Desde $50.00</p>
+    </div>
+  </div>
+
+  <div class="catalogo-item">
+    <img src="deco.jpeg" alt="Paquete decoración de globos" />
+    <div class="catalogo-item-info">
+      <h3>Paquete Decoración de Globos</h3>
+      <p>Precio: $220</p>
+      <ul>
+        <li>Guirnalda de globos</li>
+        <li>Fondo del color a elección</li>
+        <li>Una mesa con mantel</li>
+        <li>2 floreros</li>
+        <li>Juego de 3 piezas para la mesa (dorado o blanco)</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="catalogo-item">
+    <img src="arcoled.jpeg" alt="Guirnalda con fondo y luces" />
+    <div class="catalogo-item-info">
+      <h3>Guirnalda con fondo + luz LED</h3>
+      <p>Precio: $150</p>
+      <ul>
+        <li>Guirnalda de globos</li>
+        <li>Fondo del color a elección</li>
+        <li>Luz LED decorativa</li>
+      </ul>
     </div>
   </div>
 </section>
