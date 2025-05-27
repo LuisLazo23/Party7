@@ -52,7 +52,13 @@
 
   <section id="servicios" class="services">
     <h2>Servicios</h2>
-    <p>Ofrecemos alquiler de <strong>mesas, sillas, decoración personalizada y estructuras con globos</strong> para eventos especiales. Escríbenos por WhatsApp para más info.</p>
+    <p>Ofrecemos una amplia variedad de productos y servicios para hacer de tu evento algo único e inolvidable. Contamos con alquiler de mesas y sillas en diferentes estilos, incluyendo opciones elegantes con decoración personalizada y forros para sillas. También disponemos de platos dorados para darle un toque de distinción a tu mesa principal o mesa de invitados.
+
+Realizamos decoración personalizada para todo tipo de eventos: cumpleaños, bautizos, matrimonios, baby showers y celebraciones corporativas. Creamos arcos de globos, estructuras decorativas y centros de mesa según tu temática. Además, trabajamos con letras gigantes, luces neón personalizadas y fondos temáticos ideales para sesiones de fotos.
+
+Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gustos y necesidades. Todo nuestro mobiliario y decoración puede ser personalizado para combinar perfectamente con el estilo de tu evento. Escríbenos por WhatsApp y cuéntanos tu idea. ¡Nos encargamos de hacerlo realidad!
+
+</p>
   </section>
 
   <section id="catalogo" class="catalogo">
