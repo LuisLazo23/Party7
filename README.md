@@ -38,8 +38,11 @@
     <h2>Galería de Eventos</h2>
     <div class="gallery">
       <img src="grad_decor.jpg.jpeg" alt="Decoración de Graduación" />
-      <img src="mesa_con_sillas.jpg.png" alt="Mesa y Sillas" />
-      <img src="sillas_madera.jpg.png" alt="Sillas Blancas" />
+      <img src="alexa.jpeg" alt="alexa" />
+      <img src="alexaxv.jpeg" alt="alexaXV" />
+      <img src="colores.jpeg" alt="colores" />
+      <img src="rojo.jpeg" alt="rojo" />
+      <img src="mesadorada.jpeg" alt="mesadorada" />
     </div>
   </section>
 
