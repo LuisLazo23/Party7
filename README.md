@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -51,21 +51,21 @@
   <section id="catalogo" class="catalogo">
     <h2>Catálogo de Productos</h2>
     <div class="catalogo-item">
-      <img src="mesa_con_sillas.jpg" alt="Mesa y sillas" />
+      <img src="mesa_con_sillas.jpg.png" alt="Mesa y sillas" />
       <div class="catalogo-item-info">
         <h3>Juego de mesa con sillas</h3>
         <p>Precio: $15.00 por set</p>
       </div>
     </div>
     <div class="catalogo-item">
-      <img src="sillas_madera.jpg" alt="Sillas de madera" />
+      <img src="sillas_madera.jpg.png" alt="Sillas de madera" />
       <div class="catalogo-item-info">
         <h3>Sillas blancas elegantes</h3>
         <p>Precio: $2.50 por unidad</p>
       </div>
     </div>
     <div class="catalogo-item">
-      <img src="grad_decor.jpg" alt="Decoración con globos" />
+      <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
       <div class="catalogo-item-info">
         <h3>Decoración con letras y globos</h3>
         <p>Precio: Desde $50.00</p>
