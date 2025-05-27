@@ -43,7 +43,7 @@
       <img src="neon.jpeg" alt="neon" />
       <img src="rojo.jpeg" alt="rojo" />
       <img src="mesadorada.jpeg" alt="mesadorada" />
-      <img src="bayron.jpeg" alt="bayron" />
+      <img src="bayron.png" alt="bayron" />
       <img src="baby.jpeg" alt="baby" />
       <img src="leao.jpeg" alt="leao" />
       <img src="blanco.jpeg" alt="blanco" />
@@ -71,7 +71,7 @@
         <p>Precio: $2.50 por unidad</p>
       </div>
       <div class="catalogo-item">
-      <img src="colores" alt="Decoración Neón" />
+      <img src="neon.jpeg" alt="Decoración Neón" />
       <div class="catalogo-item-info">
         <h3>Decoración Personalizada</h3>
         <p>Precio: $50 personalizado</p>
